@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @PCRacer
 
-- 👀 I’m interested in ... whatever makes me happy
+- 👀 I’m interested in ... whatever makes me happy 😊
 
-- 🌱 I’m currently learning ... To ignore idiots
+- 🌱 I’m currently learning ... as much as I can! 👽
 
-- 💞️ I’m looking to collaborate on ... My own stuff
+- 💞️ I’m looking to collaborate on ... My own stuff 😏
 
-- 📫 How to reach me ... Please Don't!
+- 📫 How to reach me ... Please Don't! 🤔
 
 <!---
 PCRacer/PCRacer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
